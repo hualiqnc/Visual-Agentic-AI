@@ -39,6 +39,4 @@ This architecture reflects the decentralization model seen in real-world organiz
 * **Reasoning**: The model thinks through the problem, analyzes the situation, and plans the next actions.
 * **Acting**: The model performs actions based on its reasoning, gathers new information, and continues the process.
 
----
 
-Let me know if you'd like a visual diagram or an example implementation!
